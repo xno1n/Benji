@@ -56,7 +56,7 @@
 ### دریافت پروژه
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/benji.git
+git clone https://github.com/xno1n/benji.git
 cd benji
 ```
 
